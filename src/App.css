@@ -1,0 +1,51 @@
+.cart {
+    height: 350px !important;
+    width: 350px !important;
+
+}
+
+@media (max-width: 600px) {
+    .cart {
+        height: 200px !important;
+        width: 200px !important;
+
+    }
+
+}
+
+.remove {
+    width: 12px !important;
+    height: 12px !important;
+}
+
+.desc {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+@media (min-width: 767px) {
+    .menu {
+        visibility: visible !important;
+    }
+
+
+}
+
+@media (max-width: 637px) {
+
+    .banner {
+        mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    }
+}
+
+.icon {
+    width: 200px !important;
+    height: 200px !important;
+
+}
+
+.icons2 {
+    width: 10px !important;
+    height: 10px !important;
+
+}
